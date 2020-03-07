@@ -1,0 +1,602 @@
+{
+    "0": {
+        "x1": 200.5,
+        "y1": 100.4,
+        "InsideColor": "#cf000f",
+        "OutsideColor": "#cf000f"
+    },
+    "1": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "2": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "3": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "4": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "5": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "6": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "7": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "8": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "9": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "10": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "11": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "12": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "13": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "14": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "15": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "16": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "17": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "18": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "19": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "20": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "21": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "22": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "23": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "24": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "25": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "26": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "27": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "28": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "29": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "30": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "31": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "32": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "33": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "34": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "35": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "36": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "37": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "38": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "39": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "40": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "41": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "42": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "43": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "44": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "45": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "46": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "47": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "48": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "49": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "50": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "51": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "52": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "53": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "54": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "55": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "56": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "57": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "58": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "59": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "60": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "61": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "62": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "63": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "64": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "65": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "66": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "67": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "68": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "69": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "70": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "71": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "72": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "73": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "74": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "75": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "76": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "77": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "78": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "79": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "80": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "81": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "82": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "83": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "84": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "85": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "86": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "87": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "88": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "89": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "90": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "91": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "92": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "93": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "94": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "95": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "96": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "97": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "98": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    },
+    "99": {
+        "x1": 0,
+        "y1": 0,
+        "InsideColor": "#ff00ff",
+        "OutsideColor": "#ff00ff"
+    }
+}
